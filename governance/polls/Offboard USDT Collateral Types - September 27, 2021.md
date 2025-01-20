@@ -4,8 +4,7 @@ summary: Signal your support or opposition to Offboard USDT Collateral Types.
 discussion_link: https://forum.makerdao.com/t/signal-request-offboard-usdt-collateral-types/10223
 vote_type: Plurality Voting
 categories:
-   - Lower USDT-A Liquidation Penalty to 0%.
-   - Increase USDT-A Liquidation Ratio to 300%.
+   - Collateral
 options:
    0: Abstain
    1: Yes
@@ -26,8 +25,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 ## Review
 
 The community can vote in this poll to express support or opposition to the following changes: 
-* Lower the USDT-A [Liquidation Penalty (chop)](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%.
-* Use the lerp module to increase the USDT-A [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) to 300% to trigger liquidation of all remaining vaults.
+* Lower the USDT-A [Liquidation Penalty (`chop`)](https://makerdao.world/en/learn/governance/param-liquidation-penalty/) to 0%.
+* Increase the USDT-A [Liquidation Ratio](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) from 150% to 300% to trigger liquidation of all remaining vaults.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-offboard-usdt-collateral-types/10223) to help inform your position before voting.
 

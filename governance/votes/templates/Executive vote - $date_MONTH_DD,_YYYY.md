@@ -1,34 +1,32 @@
 ---
 title: Template - [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
+summary: $summary
+date: $YYYY-MM-DDT00:00:00.000Z
+address: "$spell_address"
 
 ---
 # [Executive Proposal] $executive_title - $date_MONTH_DD,_YYYY
 
-The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
+The $exec_publishers and $exec_crafters_and_reviewers have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
-If you are new to voting in the Maker Protocol, please see the [voting guide](https://community-development.makerdao.com/en/learn/governance/how-voting-works/) to learn how voting works, and this [wallet setup guide](https://community-development.makerdao.com/en/learn/governance/voting-setup/) to set up your wallet to vote.
+If you are new to voting in the Sky Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
 
 ---
 
 ## Executive Summary
 
-If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+If this executive proposal passes, the following **actions** will occur within the Sky Protocol:
 - $executive_action_description_1
 - $executive_action_description_2
 - $executive_action_description_3
 
-If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- $executive_addition_1
-- $executive_addition_2
-- $executive_addition_3
+**Voting for this executive proposal will place your MKR/SKY in support of the actions outlined above.**
 
-**Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
+Unless otherwise noted, the actions listed above are subject to the [GSM Pause Delay](https://sky-atlas.powerhouse.io/#A.1.8.2.1_Pause_Delay-a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Sky Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to [**$number hours**](https://sky-atlas.powerhouse.io/#A.1.8.2.1.2_Pause_Delay_Current_Value-09d2514b-3169-4755-a654-2c774456980d|0db30758e055d2d0).
 
-Unless otherwise noted, the changes and additions listed above are subject to the [GSM Pause Delay](https://community-development.makerdao.com/en/learn/governance/param-gsm-pause-delay). This means that if this executive proposal passes, the changes and additions listed above will only become active in the Maker Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **48 hours**.
+$OfficeHours? This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. 
 
-$OfficeHours? This executive proposal includes an office-hours modifier that means that it **can only be executed between 14:00 and 21:00 UTC, Monday - Friday**. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations on new collateral types.
-
-If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Maker Protocol.
+If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the Sky Protocol.
 
 ---
 
@@ -36,28 +34,33 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ### $executive_entry_1
 
-$executive_entry_description_1
+- **Authorization**: [$link_to_approval]()
+- **Proposal**: [$link_to_proposal]()
+
+If this executive proposal passes, then $executive_entry_1_implications.
 
 ### $executive_entry_2
 
-$executive_entry_description_3
+- **Authorization**: [$link_to_approval]()
+- **Proposal**: [$link_to_proposal]()
+
+If this executive proposal passes, then $executive_entry_2_implications.
 
 ### $executive_entry_3
 
-$executive_entry_description_3
+- **Authorization**: [$link_to_approval]()
+- **Proposal**: [$link_to_proposal]()
+
+If this executive proposal passes, then $executive_entry_3_implications.
 
 ## Review
 
-Community debate on these topics can be found on the MakerDAO [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
-
-Additionally, these changes may have been discussed further in recent Governance calls. [Video](https://www.youtube.com/playlist?list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan) for these calls is available to review.
+Community debate on these topics can be found on the Sky [Governance forum](https://forum.makerdao.com/). Please review any linked threads to inform your position before voting.
 
 ---
 
 ## Resources
 
-Additional information about the Governance process can be found in the [Governance](https://community-development.makerdao.com/en/learn/governance) section of the MakerDAO community portal.
+Additional information about the Governance process can be found in the [Operational Manual](https://manual.makerdao.com).
 
-To participate in future Governance calls, please [join us](https://github.com/makerdao/community/tree/master/governance/governance-and-risk-meetings) every Thursday at 17:00 UTC.
-
-To add current and upcoming votes to your calendar, please see the [MakerDAO Public Events Calendar](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=UTC&mode=week&showCalendars=0&showPrint=0).
+To add current and upcoming votes to your calendar, please see the [Sky Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
